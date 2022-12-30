@@ -134,6 +134,6 @@ C:\Users\text.txt
 <br/>
 
 # 참고자료
-https://pythoninoffice.com/python-f-string-formatting/   
-https://pythoninoffice.com/python-for-office-101/   
-https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python
+<https://pythoninoffice.com/python-f-string-formatting/>   
+<https://pythoninoffice.com/python-for-office-101/>   
+<https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python>
