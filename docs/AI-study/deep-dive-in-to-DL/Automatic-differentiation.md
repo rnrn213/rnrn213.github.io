@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Automatic Differentiation
-parent: Effective Python
+parent: Deep dive in to DL
 grand_parent: AI study
-nav_order: 2
+nav_order: 1
 ---
 
 Automatic Differentiation
